@@ -6,6 +6,7 @@
   "include": [
     "src/**/*.ts",
   ],
+  "moduleResolution": "node",
   "exclude": [
     "node_modules",
     "lib"
